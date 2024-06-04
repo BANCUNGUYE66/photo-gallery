@@ -20,8 +20,7 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
+- [Tech Stack](#tech-stack)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -98,7 +97,7 @@ Install this project with:
 
 ```sh
   
-  1. git clone https://github.com/BANCUNGUYE66/photo-gallery-challenge.git
+  1. git clone https://github.com/BANCUNGUYE66/photo-gallery.git
 
   2. Open index.html:
   Double-click the index.html file in your file explorer.
