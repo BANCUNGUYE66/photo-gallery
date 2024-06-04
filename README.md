@@ -44,14 +44,13 @@ my logical thinking and coding aptitude.
 
 ## 🛠 Built With  VSCode  <a name="Built With VSCode"></a>
 
-- React
 - Javascript
 - Html
 - Css
 
 ### Tech Stack <a name="tech-stack"></a>
 
-### HTML/CSS, javascript, Webpack <a name="tech-stack"></a>
+### HTML/CSS, javascript <a name="tech-stack"></a>
 
 
 
@@ -85,7 +84,7 @@ Example command:
 
 Clone this repository to your desired folder:
 <br>
-<br> https://github.com/BANCUNGUYE66/photo-gallery-challenge.git
+<br> https://github.com/BANCUNGUYE66/photo-gallery.git
 
 
 
